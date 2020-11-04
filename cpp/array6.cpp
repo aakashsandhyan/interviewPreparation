@@ -6,7 +6,7 @@
 #include<unordered_map>
 #include<unordered_set>
 using namespace std;
-int a[100000];
+short a[1000000];
 void printArray(int);
 void solve(){
 	int n;
