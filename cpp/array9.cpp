@@ -1,4 +1,4 @@
-/********   ****/
+/********  Minimize the maximum difference between heights ****/
 #include<iostream>
 #include<vector>
 #include<algorithm>
